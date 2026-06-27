@@ -1,0 +1,10 @@
+{
+  "questions": [
+    {
+      "question_text": "鱼需要喝水吗？",
+      "question_type": "single_choice",
+      "options": ["A. 需要，每天必须喝", "B. 不需要，从不喝水", "C. 海水鱼需要，淡水鱼不需要", "D. 鱼不是喝水，是通过鳃吸水"],
+      "answer": "D"
+    }
+  ]
+}
