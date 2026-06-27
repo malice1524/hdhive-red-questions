@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question_text": "齐夏对人蛇说：「接下来我问你一个问题，你一定要如实回答。假如我的下一个问题是『你会不会拉下拉杆』，你的回答会跟这个问题一样吗？」人蛇若答「会」——",
+      "question_type": "single_choice",
+      "options": ["A. 正常过关", "B. 陷入死循环", "C. 直接拉杆", "D. 人蛇逃走"],
+      "answer": "B"
+    },
+    {
+      "question_text": "一生一死两扇门，一真一假两守卫。只能问一个人一个问题找生门，怎么问？",
+      "question_type": "single_choice",
+      "options": ["A. 问「另一人会指哪扇」走相反", "B. 问「这是生门吗」", "C. 问两人同一问题", "D. 随便指一扇"],
+      "answer": "A"
+    },
+    {
+      "question_text": "12点整齐夏说「天亮了」，这句话——",
+      "question_type": "single_choice",
+      "options": ["A. 成立", "B. 逻辑矛盾", "C. 随便说说", "D. 没人相信"],
+      "answer": "B"
+    },
+    {
+      "question_text": "理发师只给不自己刮胡子的人刮胡子，他该不该给自己刮？",
+      "question_type": "single_choice",
+      "options": ["A. 该刮", "B. 不该刮", "C. 怎么选都矛盾", "D. 无所谓"],
+      "answer": "C"
+    },
+    {
+      "question_text": "一副扑克牌54张，你闭眼抽了一张藏起来。剩下的53张里，我有52张是红心，1张是黑桃。你藏的那张是红心的概率是多少？",
+      "question_type": "single_choice",
+      "options": ["A. 1/2", "B. 1/54", "C. 2/54", "D. 53/54"],
+      "answer": "C"
+    }
+  ]
+}
