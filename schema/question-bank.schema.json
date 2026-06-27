@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://hdhive.example/schema/red-packet-quiz-question-bank.json",
+  "title": "HDHive 红包题库文件",
+  "description": "社区共建红包题库 JSON 文件结构。可为题目数组，或包含 questions 数组的对象。",
+  "oneOf": [
+    { "$ref": "#/definitions/questionArray" },
+    {
+      "type": "object",
+      "properties": {
+        "source": { "type": "string", "description": "可选：题库来源标注，仅用于人类阅读" },
+        "image_url": { "type": "string", "description": "可选：整份题库的默认题干配图" },
+        "questions": { "$ref": "#/definitions/questionArray" },
+        "items": { "$ref": "#/definitions/questionArray" }
+      },
+      "anyOf": [
+        { "required": ["questions"] },
+        { "required": ["items"] }
+      ],
+      "additionalProperties": true
+    }
+  ],
+  "definitions": {
+    "questionArray": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/definitions/question" }
+    },
+    "question": {
+      "type": "object",
+      "properties": {
+        "question_text": { "type": "string", "minLength": 1, "description": "题干文字" },
+        "title": { "type": "string", "description": "question_text 的兼容别名" },
+        "question_type": {
+          "type": "string",
+          "enum": ["single_choice", "true_false"],
+          "description": "题型；缺省时按选项数量推断（4→单选，2→判断）"
+        },
+        "options": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "description": "单选题必须恰好 4 个互不相同的选项；判断题可省略"
+        },
+        "answer": {
+          "type": "string",
+          "minLength": 1,
+          "description": "单选填选项原文或字母 A/B/C/D；判断题填 对/错"
+        },
+        "answer_text": { "type": "string", "description": "可选：答案原文，便于人工核对" },
+        "image_url": { "type": "string", "description": "可选：题目配图 URL" },
+        "is_active": { "type": "boolean", "description": "是否启用，默认 true" }
+      },
+      "anyOf": [
+        { "required": ["question_text"] },
+        { "required": ["title"] }
+      ],
+      "required": ["answer"],
+      "additionalProperties": true
+    }
+  }
+}

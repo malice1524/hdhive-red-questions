@@ -1,0 +1,22 @@
+{
+  "source": "community-example",
+  "questions": [
+    {
+      "question_text": "下列哪一项常被用来形容“与人分享快乐胜过独自享受”？",
+      "question_type": "single_choice",
+      "options": ["独乐乐不如众乐乐", "曲高和寡", "孤芳自赏", "敝帚自珍"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "“独乐乐不如众乐乐”这句话的思想最早可追溯到《孟子》。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "判断题：单选题在本题库中必须恰好包含 4 个选项。",
+      "options": ["正确", "错误"],
+      "answer": "正确"
+    }
+  ]
+}
