@@ -1,0 +1,348 @@
+{
+  "source": "community-music",
+  "questions": [
+    {
+      "question_text": "被称为「乐圣」的作曲家是哪位？",
+      "options": ["莫扎特", "贝多芬", "巴赫", "肖邦"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "吉他的标准调弦从低到高前三根弦是？",
+      "options": ["EAD", "GAE", "EBD", "AEB"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "周杰伦的专辑《范特西》是哪一年发行的？",
+      "options": ["2000年", "2001年", "2002年", "2003年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界三大男高音不包括以下哪位？",
+      "options": ["帕瓦罗蒂", "多明戈", "卡雷拉斯", "波切利"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乐谱中记号「#」表示什么？",
+      "options": ["降号", "升号", "还原号", "重升号"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "迈克尔·杰克逊的经典专辑《Thriller》发行于哪一年？",
+      "options": ["1979年", "1982年", "1984年", "1987年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "贝多芬的第五交响曲俗称什么？",
+      "options": ["命运", "英雄", "田园", "合唱"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "钢琴的黑键和白键加起来一共多少个？",
+      "options": ["61个", "76个", "88个", "108个"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "邓丽君的代表作不包括以下哪首？",
+      "options": ["月亮代表我的心", "甜蜜蜜", "小城故事", "吻别"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「五线谱」最早起源于哪个国家？",
+      "options": ["法国", "意大利", "德国", "希腊"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "Beyond 乐队的经典歌曲《海阔天空》的主唱是谁？",
+      "options": ["黄贯中", "黄家驹", "叶世荣", "黄家强"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "摇滚乐(Rock and Roll)起源于哪个国家？",
+      "options": ["英国", "美国", "德国", "法国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "维也纳新年音乐会的固定演出场地是？",
+      "options": ["金色大厅", "国家歌剧院", "维也纳大剧院", "音乐之友协会"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "古筝是中国传统的什么类乐器？",
+      "options": ["弹拨乐器", "打击乐器", "拉弦乐器", "吹管乐器"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《义勇军进行曲》的作曲者是？",
+      "options": ["田汉", "冼星海", "聂耳", "贺绿汀"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "泰勒·斯威夫特最初是什么类型的歌手？",
+      "options": ["流行", "乡村", "摇滚", "说唱"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国传统乐器「二胡」有几根弦？",
+      "options": ["一根", "两根", "三根", "四根"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类的听觉频率范围大约是多少？",
+      "options": ["20-2000Hz", "20-20000Hz", "200-20000Hz", "2000-20000Hz"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "K-pop 的代表女团 BLACKPINK 来自哪个国家？",
+      "options": ["中国", "韩国", "日本", "泰国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "被誉为「钢琴诗人」的作曲家是？",
+      "options": ["李斯特", "肖邦", "舒曼", "德彪西"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "莫扎特是哪国人？",
+      "options": ["德国", "奥地利", "意大利", "匈牙利"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "华语乐坛「Eason」指的是哪位歌手？",
+      "options": ["周杰伦", "陈奕迅", "王力宏", "林俊杰"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "电吉他和木吉他最大的区别是什么？",
+      "options": ["大小不同", "是否需要电源拾音", "弦数不同", "材质不同"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "美国格莱美奖主要颁发给哪个领域的贡献者？",
+      "options": ["电影", "电视", "音乐", "文学"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国民乐中「十大名曲」不包括以下哪首？",
+      "options": ["高山流水", "十面埋伏", "二泉映月", "命运交响曲"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的音乐流媒体平台是？",
+      "options": ["Apple Music", "Spotify", "网易云音乐", "QQ音乐"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "歌剧《茶花女》的作者是谁？",
+      "options": ["比才", "普契尼", "威尔第", "罗西尼"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "周深凭借哪首歌被广泛认知？",
+      "options": ["大鱼", "达拉崩吧", "起风了", "灯火里的中国"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乐队披头士(The Beatles)来自哪个国家？",
+      "options": ["美国", "英国", "澳大利亚", "加拿大"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国最具影响力的乐队比赛节目是？",
+      "options": ["中国好声音", "乐队的夏天", "歌手", "天赐的声音"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "小提琴属于哪类乐器？",
+      "options": ["拨弦乐器", "弓弦乐器", "打击乐器", "吹管乐器"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "爵士乐起源于下列哪个城市？",
+      "options": ["纽约", "新奥尔良", "芝加哥", "洛杉矶"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "被称为「华语乐坛周董」的歌手是谁？",
+      "options": ["周杰伦", "周华健", "周传雄", "周深"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "二胡经典曲目《二泉映月》的作者是？",
+      "options": ["刘天华", "阿炳", "聂耳", "冼星海"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鼓手在一支乐队中主要负责什么？",
+      "options": ["旋律", "节奏", "和声", "主音"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "歌曲《Yesterday》是哪个乐队的作品？",
+      "options": ["滚石乐队", "披头士", "皇后乐队", "老鹰乐队"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "口琴属于哪种类型的乐器？",
+      "options": ["木管乐器", "簧片乐器", "铜管乐器", "打击乐器"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "皇后乐队的经典曲目《We Will Rock You》以什么开场闻名？",
+      "options": ["钢琴", "跺脚和拍手", "电吉他", "鼓点"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "华晨宇是哪一季《快乐男声》的冠军？",
+      "options": ["2010年", "2013年", "2015年", "2017年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "琵琶是中国民族乐器中的什么类？",
+      "options": ["弹拨乐器", "拉弦乐器", "吹管乐器", "打击乐器"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「C大调」中的主音是哪个音？",
+      "options": ["C", "D", "E", "F"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "华语女歌手邓紫棋的原名是？",
+      "options": ["邓紫棋", "邓诗颖", "邓紫姗", "邓晓琪"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "萨克斯管属于哪类乐器？",
+      "options": ["铜管", "木管", "打击", "键盘"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国第一个获得格莱美奖的歌手是？",
+      "options": ["宋祖英", "吴彤", "郎朗", "谭盾"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《黄河大合唱》的作曲者是？",
+      "options": ["聂耳", "冼星海", "贺绿汀", "田汉"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乐谱末尾的「Fine」表示什么？",
+      "options": ["好", "结束", "重复", "变速"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "最著名的流行女歌手麦当娜来自哪个国家？",
+      "options": ["英国", "美国", "澳大利亚", "加拿大"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "大提琴与小提琴最主要的区别是？",
+      "options": ["弦数不同", "大小和音域不同", "材质不同", "演奏方式完全相同"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "K-pop 男团 BTS 的经纪公司是？",
+      "options": ["SM", "YG", "JYP", "Big Hit Music"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
