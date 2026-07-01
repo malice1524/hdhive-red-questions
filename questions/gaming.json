@@ -1,0 +1,293 @@
+{
+  "source": "community-gaming",
+  "questions": [
+    {
+      "question_text": "《英雄联盟》中，防御塔攻击小兵时伤害会逐渐增加。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《原神》中璃月地区的守护神兽是？",
+      "question_type": "single_choice",
+      "options": ["风魔龙", "若陀龙王", "岩王帝君钟离", "雷电将军"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《王者荣耀》中地图分为上路、中路、下路和打野区。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《我的世界》中，钻石矿通常出现在第几层？",
+      "question_type": "single_choice",
+      "options": ["1-15层", "16-32层", "32-48层", "48-64层"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《塞尔达传说：旷野之息》的主角叫塞尔达。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《绝地求生》中空投箱通常会发出什么颜色的烟雾？",
+      "question_type": "single_choice",
+      "options": ["红色", "蓝色", "黄色", "绿色"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《超级马里奥》中，吃了超级蘑菇后马里奥会变大。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《怪物猎人》系列中，玩家可以骑乘怪物。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《只狼：影逝二度》中主角的义手装备不具备以下哪种功能？",
+      "question_type": "single_choice",
+      "options": ["钩爪飞荡", "忍具发射", "滑翔飞行", "招架格挡"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《Minecraft》中苦力怕怕猫。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《巫师 3：狂猎》的主角是杰洛特。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《星露谷物语》中玩家可以结婚生子。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《暗黑破坏神 2》中俗称「劳模」的 BOSS 是哪个？",
+      "question_type": "single_choice",
+      "options": ["安达利尔", "都瑞尔", "墨菲斯托", "迪亚波罗"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《集合啦！动物森友会》中大头菜是股票一样的投资品。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《APEX 英雄》是哪种类型的游戏？",
+      "question_type": "single_choice",
+      "options": ["MOBA", "大逃杀射击", "RPG", "赛车"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《俄罗斯方块》中长条（I 型方块）一次可以消多少行？",
+      "question_type": "single_choice",
+      "options": ["1行", "2行", "3行", "4行"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "《三国杀》中诸葛亮的观星技能可以看牌堆顶的牌。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《宝可梦》中四个招式全被PP用完的精灵会使用挣扎。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《艾尔登法环》的开发商是？",
+      "question_type": "single_choice",
+      "options": ["卡普空", "FromSoftware", "史克威尔艾尼克斯", "育碧"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《神庙逃亡》是一款无尽头跑酷游戏。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《守望先锋》中天使的终极技能是大招复活。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《文明 6》中玩家可以通过什么方式获得胜利？",
+      "question_type": "single_choice",
+      "options": ["征服、科技、文化、宗教、分数", "只有征服", "只有科技", "看谁先到未来"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《双人成行》必须两个人才能游玩。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《街头霸王》中隆的招牌技能是？",
+      "question_type": "single_choice",
+      "options": ["波动拳", "升龙拳", "龙卷旋风腿", "以上都是"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "《魔兽世界》中联盟和部落是敌对阵营。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《空洞骑士》是一款赛博朋克风格的游戏。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《FIFA》系列中「搓射」是哪种射门方式的外号？",
+      "question_type": "single_choice",
+      "options": ["远射", "弧线球射门", "头球", "铲射"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《第五人格》中求生者需要破译密码机逃生。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《赛博朋克 2077》中夜之城的帮派之一是虎爪帮。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《大乱斗》系列（Super Smash Bros.）中最多可同时多少人对战？",
+      "question_type": "single_choice",
+      "options": ["2人", "4人", "8人", "12人"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "《底特律：变人》是一款互动电影式剧情游戏。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《明日方舟》中博士的主要战斗方式是亲自上阵。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《鬼泣》系列主角但丁的双枪叫什么？",
+      "question_type": "single_choice",
+      "options": ["黑檀木与白象牙", "左轮与猎枪", "沙漠之鹰", "双枪不分名称"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "《梦幻西游》是网易开发的回合制网游。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《辐射》系列中的标志性饮料是什么？",
+      "question_type": "single_choice",
+      "options": ["可乐", "核子可乐", "啤酒", "苏打水"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《阴阳师》中抽卡最高稀有度是 SSR。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《糖豆人》是一款带有物理摔跤元素的大乱斗游戏。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《最终幻想 7》中主角克劳德使用什么武器？",
+      "question_type": "single_choice",
+      "options": ["剑", "大刀（破坏剑）", "双刀", "长枪"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《人类一败涂地》中角色可以做出各种软体动作。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《战舰世界》中三种主要舰船类型不包括？",
+      "question_type": "single_choice",
+      "options": ["战列舰", "驱逐舰", "航空母舰", "潜艇"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "《传说之下》中如果玩家杀死所有怪物，结局会不同。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《永劫无间》是一款武侠吃鸡游戏。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《星之卡比》中卡比的招牌能力是什么？",
+      "question_type": "single_choice",
+      "options": ["飞行", "吞食敌人获得能力", "高速奔跑", "隐身"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《文明》系列中甘地以热爱和平著称。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "《战地》系列以大规模载具战为特色。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《ori 与迷失森林》中森林逐渐消亡是因为什么？",
+      "question_type": "single_choice",
+      "options": ["火灾", "光之消失", "黑暗入侵", "洪水"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "《胡闹厨房》中玩家必须合作才能通关。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《消逝的光芒》中白天丧尸会变弱，晚上变强。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《骑马与砍杀》中玩家可以建立自己的军队和王国。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "《GT赛车》系列是哪个平台独占的赛车游戏？",
+      "question_type": "single_choice",
+      "options": ["Xbox", "PlayStation", "Nintendo Switch", "PC"],
+      "answer": "B",
+      "is_active": true
+    }
+  ]
+}
