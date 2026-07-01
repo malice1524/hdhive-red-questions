@@ -1,0 +1,355 @@
+{
+  "source": "community-literature",
+  "questions": [
+    {
+      "question_text": "《红楼梦》的作者是谁？",
+      "options": ["曹雪芹", "施耐庵", "吴承恩", "罗贯中"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「床前明月光」的下一句是？",
+      "options": ["疑是地上霜", "低头思故乡", "举头望明月", "明日几时有"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "莎士比亚四大悲剧中不包括下列哪部？",
+      "options": ["哈姆雷特", "奥赛罗", "威尼斯商人", "麦克白"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「但愿人长久，千里共婵娟」出自谁的作品？",
+      "options": ["李白", "苏轼", "辛弃疾", "李清照"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《三国演义》中关羽使用的武器是？",
+      "options": ["丈八蛇矛", "方天画戟", "青龙偃月刀", "双股剑"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《百年孤独》的作者是谁？",
+      "options": ["博尔赫斯", "马尔克斯", "略萨", "聂鲁达"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「生当作人杰，死亦为鬼雄」写的是哪位历史人物？",
+      "options": ["岳飞", "项羽", "刘邦", "韩信"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "以下哪部不是老舍的作品？",
+      "options": ["骆驼祥子", "茶馆", "四世同堂", "家"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「落霞与孤鹜齐飞，秋水共长天一色」出自哪篇？",
+      "options": ["岳阳楼记", "滕王阁序", "醉翁亭记", "阿房宫赋"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「问君能有几多愁，恰似一江春水向东流」的作者是？",
+      "options": ["李煜", "李清照", "柳永", "温庭筠"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《诗经》分为哪三个部分？",
+      "options": ["风、雅、颂", "赋、比、兴", "诗、词、曲", "经、史、子"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《1984》的作者是哪位？",
+      "options": ["赫胥黎", "乔治·奥威尔", "卡夫卡", "加缪"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「静以修身，俭以养德」出自哪部作品？",
+      "options": ["论语", "诫子书", "大学", "中庸"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "下列哪位不是初唐四杰？",
+      "options": ["王勃", "杨炯", "骆宾王", "孟浩然"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「举世皆浊我独清，众人皆醉我独醒」出自？",
+      "options": ["孔子", "屈原", "庄子", "孟子"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「横眉冷对千夫指，俯首甘为孺子牛」是谁的诗句？",
+      "options": ["鲁迅", "郭沫若", "胡适", "巴金"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "以下哪个不是唐宋八大家？",
+      "options": ["韩愈", "欧阳修", "杜甫", "苏轼"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「在天愿作比翼鸟，在地愿为连理枝」出自哪首诗？",
+      "options": ["长恨歌", "琵琶行", "孔雀东南飞", "离骚"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《福尔摩斯探案集》的作者是？",
+      "options": ["阿加莎·克里斯蒂", "柯南·道尔", "爱伦·坡", "东野圭吾"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「无边落木萧萧下，不尽长江滚滚来」是谁的诗句？",
+      "options": ["李白", "杜甫", "白居易", "王维"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国古代「四书」不包括下面哪一部？",
+      "options": ["大学", "中庸", "孟子", "春秋"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「落红不是无情物，化作春泥更护花」出自谁？",
+      "options": ["龚自珍", "林则徐", "黄遵宪", "魏源"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「路漫漫其修远兮，吾将上下而求索」出自？",
+      "options": ["诗经", "楚辞·离骚", "乐府诗集", "全唐诗"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "下列哪个不属于元曲四大爱情剧？",
+      "options": ["西厢记", "拜月亭", "墙头马上", "桃花扇"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「古来圣贤皆寂寞，惟有饮者留其名」出自？",
+      "options": ["将进酒", "月下独酌", "蜀道难", "行路难"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「江山代有才人出，各领风骚数百年」作者是？",
+      "options": ["赵翼", "袁枚", "纳兰性德", "纪晓岚"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "下列哪个不是鲁迅小说中的人物？",
+      "options": ["祥林嫂", "孔乙己", "阿Q", "陈白露"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「王师北定中原日，家祭无忘告乃翁」是陆游的绝笔诗。",
+      "options": ["示儿", "秋夜将晓出篱门迎凉有感", "游山西村", "书愤"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《荷马史诗》不包括下列哪部作品？",
+      "options": ["伊利亚特", "奥德赛", "埃涅阿斯记", "以上都是"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「朱自清」的散文《背影》中父亲为他做了什么？",
+      "options": ["买橘子", "缝衣服", "煮面", "送伞"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "唐代被称为「诗圣」的是谁？",
+      "options": ["李白", "杜甫", "白居易", "王维"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《水浒传》中林冲的绰号是？",
+      "options": ["及时雨", "豹子头", "行者", "花和尚"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「春色满园关不住，一枝红杏出墙来」出自谁？",
+      "options": ["叶绍翁", "陆游", "杨万里", "范成大"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《堂吉诃德》的作者是哪国人？",
+      "options": ["法国", "西班牙", "意大利", "葡萄牙"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《呐喊》是哪位作家的短篇小说集？",
+      "options": ["茅盾", "鲁迅", "巴金", "老舍"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「千锤万凿出深山，烈火焚烧若等闲」描写的是什么？",
+      "options": ["石灰", "钢铁", "陶瓷", "煤炭"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《人间喜剧》是哪位作家的作品总称？",
+      "options": ["雨果", "巴尔扎克", "狄更斯", "司汤达"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "道家学派的创始人是？",
+      "options": ["孔子", "老子", "庄子", "墨子"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「醉卧沙场君莫笑，古来征战几人回」出自哪首诗？",
+      "options": ["凉州词", "出塞", "从军行", "塞下曲"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《双城记》中的「双城」是指哪两个城市？",
+      "options": ["伦敦和巴黎", "伦敦和纽约", "巴黎和柏林", "巴黎和罗马"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「两岸猿声啼不住，轻舟已过万重山」出自李白哪首诗？",
+      "options": ["早发白帝城", "望庐山瀑布", "蜀道难", "将进酒"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《孔雀东南飞》属于什么类型的诗歌？",
+      "options": ["乐府诗", "绝句", "律诗", "词"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "被称为「诗鬼」的唐代诗人是谁？",
+      "options": ["李贺", "贾岛", "孟郊", "杜牧"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《傲慢与偏见》的作者是谁？",
+      "options": ["简·奥斯汀", "勃朗特姐妹", "乔治·艾略特", "弗吉尼亚·伍尔夫"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「莫愁前路无知己，天下谁人不识君」中的「君」指谁？",
+      "options": ["杜甫", "高适", "董大", "岑参"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《西游记》中猪八戒的武器是什么？",
+      "options": ["金箍棒", "九齿钉耙", "降妖宝杖", "方天画戟"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「大漠孤烟直，长河落日圆」出自王维的哪首诗？",
+      "options": ["使至塞上", "山居秋暝", "鸟鸣涧", "送元二使安西"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《哈姆雷特》中王子复仇的故事发生在哪个国家？",
+      "options": ["英国", "丹麦", "挪威", "瑞典"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「纸上得来终觉浅，绝知此事要躬行」出自陆游的哪首诗？",
+      "options": ["示儿", "冬夜读书示子聿", "游山西村", "书愤"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "《世说新语》是哪位组织编纂的笔记小说集？",
+      "options": ["刘义庆", "干宝", "王嘉", "葛洪"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
