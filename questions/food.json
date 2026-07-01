@@ -1,0 +1,355 @@
+{
+  "source": "community-food",
+  "questions": [
+    {
+      "question_text": "中国八大菜系中不包括以下哪个？",
+      "options": ["川菜", "粤菜", "闽菜", "鄂菜"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "火锅用的「麻酱」主要原料是什么？",
+      "options": ["花生", "芝麻", "黄豆", "核桃"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "日本料理中「刺身」通常蘸什么调味品？",
+      "options": ["酱油和芥末", "醋", "辣椒酱", "蒜蓉"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "做蛋糕时使蛋糕蓬松的关键原料通常是？",
+      "options": ["面粉", "鸡蛋", "泡打粉或小苏打", "糖"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「佛跳墙」属于哪个菜系？",
+      "options": ["粤菜", "闽菜", "浙菜", "苏菜"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "制作面包时酵母的作用是什么？",
+      "options": ["增甜", "发酵膨胀", "增色", "防腐"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "意式咖啡中「拿铁」的基底是什么？",
+      "options": ["美式咖啡", "浓缩咖啡", "滴滤咖啡", "冷萃咖啡"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "四川菜最主要的调味特色是？",
+      "options": ["酸辣", "麻辣", "甜辣", "咸辣"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "做糖醋排骨时最关键的调味料是？",
+      "options": ["糖和盐", "糖和醋", "醋和酱", "盐和酱油"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "寿司的米饭通常用什么调味？",
+      "options": ["盐和油", "糖和醋", "酱油和味精", "料酒和盐"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鲜牛奶和酸奶的主要区别在于是否经过什么过程？",
+      "options": ["杀菌", "发酵", "冷冻", "脱水"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "北京烤鸭的经典吃法是搭配什么饼？",
+      "options": ["烙饼", "春饼", "荷叶饼", "烧饼"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "巧克力原料来自于哪种植物？",
+      "options": ["咖啡豆", "可可豆", "椰子", "榛子"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「东坡肉」相传由哪位宋代文人创制？",
+      "options": ["欧阳修", "白居易", "苏轼", "黄庭坚"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "披萨的发源地是哪个国家？",
+      "options": ["法国", "意大利", "西班牙", "希腊"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "汤圆在元宵节食用是中国的传统习俗。",
+      "options": ["芝麻", "花生", "糯米", "豆沙"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "制作奶酪的主要原料是什么？",
+      "options": ["牛奶", "豆浆", "羊奶", "牛奶或羊奶"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "广式早茶中「虾饺」的皮用什么做的？",
+      "options": ["面粉", "澄粉", "糯米粉", "米粉"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上辣度最高的辣椒是什么？",
+      "options": ["朝天椒", "哈瓦那辣椒", "卡罗来纳死神椒", "墨西哥辣椒"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蒸鱼时淋上热油的作用是？",
+      "options": ["去腥增香", "使鱼更嫩", "杀菌", "上色"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "啤酒的主要原料不包括以下哪种？",
+      "options": ["麦芽", "啤酒花", "酵母", "葡萄"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "炒青菜时加少量盐的目的是？",
+      "options": ["增鲜", "出水和入味", "杀菌", "防变色"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "粤菜中「白切鸡」的特点是？",
+      "options": ["红烧", "清蒸原味", "油炸", "煲汤"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "寿司含有的主要碳水化合物来源是？",
+      "options": ["鱼", "海苔", "米饭", "酱油"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "红糖和白糖的主要区别在于？",
+      "options": ["甜度不同", "精炼程度不同", "原料不同", "颜色不同"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "不属于川菜代表菜的选项是？",
+      "options": ["麻婆豆腐", "宫保鸡丁", "回锅肉", "清蒸鲈鱼"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "牛身上最嫩的肉部位通常是？",
+      "options": ["牛肩", "牛腩", "菲力", "牛腱"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "泡菜发酵过程中起主要作用的是？",
+      "options": ["酵母菌", "乳酸菌", "醋酸菌", "霉菌"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "法式长棍面包的显著特征是？",
+      "options": ["圆形", "扁平", "细长", "方形"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "豆腐的主要原料是？",
+      "options": ["绿豆", "黄豆", "红豆", "黑豆"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「咖喱」主要源于哪个地区的饮食文化？",
+      "options": ["中国", "印度", "泰国", "日本"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蒸包子时包子皮为什么会膨胀？",
+      "options": ["面粉膨大", "酵母发酵产气", "水分蒸发", "蒸汽压力"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "日本拉面汤底的主要类型不包括？",
+      "options": ["味噌", "盐味", "酱油", "豆奶"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "红酒通常使用哪种葡萄类型酿造？",
+      "options": ["鲜食葡萄", "酿酒葡萄", "晒干葡萄", "野生葡萄"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "烘焙中「打发的蛋白」主要用于什么？",
+      "options": ["增甜", "增色", "使糕点蓬松", "防腐"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哪种烹饪方式最能保留蔬菜的营养？",
+      "options": ["油炸", "清蒸", "爆炒", "长时间炖煮"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "正宗的兰州牛肉面的核心是？",
+      "options": ["牛肉", "面条", "汤底", "辣椒油"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "白葡萄酒通常用什么葡萄酿造？",
+      "options": ["红葡萄", "绿葡萄或白葡萄", "蓝葡萄", "黑葡萄"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "咖喱中呈现黄颜色的主要香料是？",
+      "options": ["辣椒粉", "姜黄", "八角", "桂皮"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "微波炉加热食物的原理是？",
+      "options": ["高温烤制", "电磁波使水分子振动", "红外线", "蒸汽传导"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "吃生鱼片时搭配紫苏叶的作用是？",
+      "options": ["增加甜味", "去腥杀菌", "装饰", "补充维生素"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哪种面的制作过程中需要加入大量碱水？",
+      "options": ["阳春面", "车仔面", "热干面", "竹升面"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「辣条」的主要原料是？",
+      "options": ["面粉", "豆制品", "土豆", "米粉"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "正确的煮饺子方法是水开了后加入几次冷水？",
+      "options": ["不加", "一次", "两到三次", "一直煮"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "制作酸奶时在牛奶中加入了什么菌种？",
+      "options": ["酵母菌", "乳酸菌", "醋酸菌", "枯草杆菌"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "湘菜的代表菜是？",
+      "options": ["麻婆豆腐", "剁椒鱼头", "白切鸡", "松鼠桂鱼"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "日式料理中「天妇罗」的烹饪方式是？",
+      "options": ["生吃", "油炸", "煮", "烤"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "葡萄酒中「干红」的「干」指的是？",
+      "options": ["口感干燥", "含糖量低", "酒精度高", "年份久"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "叫花鸡的传统烹饪方式是？",
+      "options": ["烤", "泥裹烤", "蒸", "红烧"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中秋节的特色食物是？",
+      "options": ["饺子", "粽子", "月饼", "汤圆"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
