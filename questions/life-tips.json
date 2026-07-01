@@ -1,0 +1,295 @@
+{
+  "source": "community-life",
+  "questions": [
+    {
+      "question_text": "用热水洗碗比用冷水去油效果更好。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "炒菜时油锅起火，最合理的做法是什么？",
+      "question_type": "single_choice",
+      "options": ["用水泼灭", "盖上锅盖", "用嘴吹灭", "用风扇吹"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "用铁锅炒菜可以补充人体所需的铁元素。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "冰箱里下列哪个位置温度最低？",
+      "question_type": "single_choice",
+      "options": ["冷藏室门架", "冷藏室下层", "冷冻室", "保鲜抽屉"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "刷牙时应该先沾湿牙膏再刷牙。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "成年人每天建议饮水量约为多少？",
+      "question_type": "single_choice",
+      "options": ["500ml", "1000ml", "1500-2000ml", "3000ml以上"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "手机充电时使用手机不会影响电池寿命。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "以下哪种食材不能直接生吃？",
+      "question_type": "single_choice",
+      "options": ["黄瓜", "西红柿", "四季豆", "生菜"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "米饭煮好后焖一会儿会更好吃。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "用微波炉加热带壳鸡蛋可能会发生什么？",
+      "question_type": "single_choice",
+      "options": ["更美味", "爆炸", "外壳变软", "变成水晶蛋"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "早上的空气比晚上更清新。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "被蚊虫叮咬后涂抹什么可以止痒？",
+      "question_type": "single_choice",
+      "options": ["牙膏", "酱油", "醋", "以上都可以缓解"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "喝醋能软化血管。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "吃完火锅后身上有味道，是因为什么？",
+      "question_type": "single_choice",
+      "options": ["衣服吸附了气味分子", "心理作用", "火锅店的灯光", "身上出汗了"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "先刷牙再吃早餐更科学。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "睡觉时手机放床头辐射会导致脑癌。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "泡面桶内壁的防水层是什么材质？",
+      "question_type": "single_choice",
+      "options": ["塑料", "蜡", "聚乙烯", "铝箔"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "用茶水送服药物会影响药效。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "感冒时吃抗生素一定能治好感冒。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "白色衣服和深色衣服一起洗容易染色，最直接的办法是？",
+      "question_type": "single_choice",
+      "options": ["多放洗衣液", "分开洗", "用冷水洗", "用热水洗"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "香蕉放在冰箱里会更快变黑。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "下列哪种做法可以有效去除冰箱异味？",
+      "question_type": "single_choice",
+      "options": ["放柠檬片", "放活性炭", "放茶叶", "以上都可以"],
+      "answer": "D",
+      "is_active": true
+    },
+    {
+      "question_text": "用抹布擦桌子比用纸巾更环保。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "吃早餐的最佳时间段是？",
+      "question_type": "single_choice",
+      "options": ["起床后30分钟内", "7-9点", "10点前", "越早越好"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "烧开水时看到冒白烟，那个「白烟」是水蒸气。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "高铁上为什么没有 E 座？",
+      "question_type": "single_choice",
+      "options": ["E 被跳过了", "沿用飞机座位编号习惯", "E 不吉利", "字母太多不好记"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "醋和小苏打混合会产生大量气泡。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "下列哪种食物含钙量最高？",
+      "question_type": "single_choice",
+      "options": ["牛奶", "豆腐", "芝麻酱", "虾皮"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "用铝箔纸包裹食物烧烤时，光亮面应朝外。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "喝牛奶可以解辣。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "自来水烧开后，水垢的主要成分是什么？",
+      "question_type": "single_choice",
+      "options": ["氯化钠", "碳酸钙和碳酸镁", "二氧化硅", "硫酸铁"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "在飞机起飞和降落时需要打开遮光板。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "手机飞行模式下闹钟还会响吗？",
+      "question_type": "single_choice",
+      "options": ["会", "不会", "看手机型号", "不确定"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "手指被纸割伤，涂口水可以消毒。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "穿羽绒服机洗后可能会失去保暖效果。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "鸡蛋放在冰箱里能保存更久，通常建议存放多久？",
+      "question_type": "single_choice",
+      "options": ["1周", "3-5周", "半年", "一年"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "用冷水煮冻饺子比用热水好。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "睡眠时间越长对身体越好。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "加湿器中可以加自来水使用。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "切洋葱时为什么会流泪？",
+      "question_type": "single_choice",
+      "options": ["太辣了", "洋葱释放的化学物质刺激眼睛", "心理作用", "洋葱温度太低"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "睡觉时开灯会抑制褪黑素的分泌。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "用保鲜膜包西瓜放入冰箱可以防止细菌滋生。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "下列哪种做法能减少厨房油烟？",
+      "question_type": "single_choice",
+      "options": ["热锅冷油", "大火爆炒", "多放油", "先炸后炒"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "洗面奶直接抹脸上再揉开是正确的洗脸方式。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "旧电池和新电池混用会影响电器寿命。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "日常鲜牛奶和纯牛奶哪个营养价值更高？",
+      "question_type": "single_choice",
+      "options": ["鲜牛奶", "纯牛奶", "一样", "取决于品牌"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "长期用同一种牙膏会影响牙齿健康。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "洗完蔬菜后先用盐水浸泡可以去除农药残留。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "下面哪种做法对节约用电最有帮助？",
+      "question_type": "single_choice",
+      "options": ["频繁开关空调", "定期清洗空调滤网", "空调开最低温", "开空调时开窗"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "乘电梯时遇到故障应该疯狂拍打电梯门求救。",
+      "question_type": "true_false",
+      "answer": "错"
+    }
+  ]
+}
