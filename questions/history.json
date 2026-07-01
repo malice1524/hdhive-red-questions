@@ -1,0 +1,348 @@
+{
+  "source": "community-history",
+  "questions": [
+    {
+      "question_text": "中国历史上第一个统一的封建王朝是？",
+      "options": ["夏朝", "商朝", "秦朝", "汉朝"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "二战爆发的标志性事件是德国入侵哪个国家？",
+      "options": ["法国", "苏联", "波兰", "英国"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "唐朝的开国皇帝是谁？",
+      "options": ["李世民", "李渊", "李治", "李隆基"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "法国大革命爆发的年份是？",
+      "options": ["1776年", "1789年", "1799年", "1804年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国四大发明不包括下列哪一项？",
+      "options": ["造纸术", "火药", "瓷器", "印刷术"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "成吉思汗建立蒙古帝国是在哪个世纪？",
+      "options": ["11世纪", "12世纪", "13世纪", "14世纪"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "辛亥革命发生在哪一年？",
+      "options": ["1900年", "1911年", "1912年", "1919年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "古埃及的金字塔主要建造于什么时期？",
+      "options": ["旧王朝时期", "中王朝时期", "新王朝时期", "托勒密时期"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "商鞅变法是哪个时期的历史事件？",
+      "options": ["春秋", "战国", "秦朝", "汉朝"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "美国独立宣言签署于哪一年？",
+      "options": ["1774年", "1776年", "1778年", "1781年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "明朝的开国皇帝是谁？",
+      "options": ["朱元璋", "朱棣", "朱允炆", "朱瞻基"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "第一次世界大战爆发于哪一年？",
+      "options": ["1913年", "1914年", "1915年", "1916年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "郑和下西洋最远到达了哪里？",
+      "options": ["印度", "阿拉伯半岛", "非洲东海岸", "欧洲"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "古希腊雅典民主政治的黄金时代是在谁的统治时期？",
+      "options": ["梭伦", "伯里克利", "克里斯提尼", "亚历山大"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鸦片战争爆发于哪一年？",
+      "options": ["1838年", "1840年", "1842年", "1856年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国最后一个封建王朝是？",
+      "options": ["明朝", "清朝", "元朝", "民国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "罗马帝国灭亡的年份大约是？",
+      "options": ["395年", "476年", "500年", "622年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "赤壁之战发生在哪个时期？",
+      "options": ["东汉末年", "三国", "西晋", "南北朝"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哥伦布发现美洲大陆是在哪一年？",
+      "options": ["1490年", "1492年", "1494年", "1498年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "贞观之治是哪位皇帝在位时期？",
+      "options": ["唐高祖", "唐太宗", "唐玄宗", "武则天"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类首次登月发生在哪一年？",
+      "options": ["1967年", "1969年", "1971年", "1973年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "甲午战争中北洋水师在哪场战役中覆灭？",
+      "options": ["丰岛海战", "黄海海战", "威海卫之战", "大东沟海战"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "彼得大帝改革发生在哪个国家？",
+      "options": ["英国", "法国", "俄罗斯", "普鲁士"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "宋代最著名的画家张择端的代表作是？",
+      "options": ["富春山居图", "清明上河图", "千里江山图", "韩熙载夜宴图"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "拿破仑加冕称帝是在哪一年？",
+      "options": ["1799年", "1802年", "1804年", "1807年"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "万里长城始建于哪个朝代？",
+      "options": ["秦朝", "汉朝", "隋朝", "明朝"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "丝绸之路的开通主要归功于谁？",
+      "options": ["班超", "张骞", "苏武", "霍去病"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "古罗马的角斗场位于哪座城市？",
+      "options": ["雅典", "罗马", "那不勒斯", "佛罗伦萨"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "日本明治维新始于哪一年？",
+      "options": ["1853年", "1868年", "1871年", "1889年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "三国时期蜀国的建立者是？",
+      "options": ["曹操", "刘备", "孙权", "诸葛亮"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "柏林墙是在哪一年被推倒的？",
+      "options": ["1987年", "1989年", "1990年", "1991年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "元朝是由哪个民族建立的？",
+      "options": ["汉族", "蒙古族", "满族", "回族"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "隋朝大运河的开凿者是哪位皇帝？",
+      "options": ["隋文帝", "隋炀帝", "隋恭帝", "唐高祖"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "林肯在哪一年当选美国总统？",
+      "options": ["1856年", "1860年", "1864年", "1865年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "东汉末年的官渡之战的双方是？",
+      "options": ["曹操对刘备", "曹操对袁绍", "曹操对孙权", "刘备对孙权"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "英国工业革命开始于哪个世纪？",
+      "options": ["16世纪", "17世纪", "18世纪", "19世纪"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "隋朝存在了多少年？",
+      "options": ["27年", "38年", "289年", "618年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "二战中诺曼底登陆发生在哪一年？",
+      "options": ["1943年", "1944年", "1945年", "1942年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "秦始皇统一六国是在哪一年？",
+      "options": ["公元前230年", "公元前221年", "公元前210年", "公元前206年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "春秋五霸中最早称霸的是谁？",
+      "options": ["齐桓公", "晋文公", "楚庄王", "秦穆公"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "十字军东征的主要目的是？",
+      "options": ["传播文化", "争夺圣地", "寻找黄金", "消灭海盗"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "历史上被称为「贞观遗风」的是哪位皇帝？",
+      "options": ["武则天", "唐高宗", "唐玄宗", "唐中宗"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "文艺复兴运动起源于哪个国家？",
+      "options": ["法国", "英国", "意大利", "西班牙"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "甲午战争后清政府签订了什么条约？",
+      "options": ["南京条约", "马关条约", "辛丑条约", "北京条约"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类历史上第一次世界大战约有几年？",
+      "options": ["3年", "4年", "5年", "6年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "清朝的最后一位皇帝是谁？",
+      "options": ["光绪帝", "宣统帝", "同治帝", "咸丰帝"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界四大文明古国不包括哪个？",
+      "options": ["古埃及", "古巴比伦", "古希腊", "古印度"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "三国时期最早灭亡的是哪个国家？",
+      "options": ["魏", "蜀", "吴", "同时灭亡"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "美国南北战争的结果是？",
+      "options": ["北方胜", "南方胜", "双方和谈", "分裂为两国"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
