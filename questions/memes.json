@@ -1,0 +1,305 @@
+{
+  "source": "community-memes",
+  "questions": [
+    {
+      "question_text": "「YYDS」是网络用语，意思是「永远的神」。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "网络流行语「破防了」是指什么？",
+      "question_type": "single_choice",
+      "options": ["手机被盗", "游戏输掉", "情绪被击穿", "电脑中毒"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "「芭比Q了」在网络用语中表示完了、糟糕了。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「内卷」指的是什么现象？",
+      "question_type": "single_choice",
+      "options": ["内部竞争加剧", "内部卷曲", "跑步运动", "看书学习"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "「摆烂」是指无论结果如何，消极应对、躺平不管。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「绝绝子」在网络用语中通常用来表达什么意思？",
+      "question_type": "single_choice",
+      "options": ["极度糟糕", "非常棒/绝了", "绝望", "绝对不行"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「emo」是 Emotional 的缩写，表示情绪低落。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「栓Q」是哪个英文短语的谐音？",
+      "question_type": "single_choice",
+      "options": ["Thank you", "Shut up", "So good", "See you"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "「社死」是指社会性死亡，意为极度尴尬。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「CPU」在粉丝语境中被用作什么动词？",
+      "question_type": "single_choice",
+      "options": ["计算机中央处理器", "洗脑/操纵（PUA 的替代词）", "欺骗", "控制"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「6」在网络评论中表示厉害、溜的意思。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「真的会谢」在网络用语中表达什么意思？",
+      "question_type": "single_choice",
+      "options": ["真的感谢", "真的很无语", "真的会谢罪", "真心道谢"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「家人们谁懂啊」是表达一种无奈或吐槽的情绪。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「显眼包」形容什么样的人？",
+      "question_type": "single_choice",
+      "options": ["眼睛很大的人", "爱出风头惹眼的人", "透明人", "很显年轻的老人"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「泰裤辣」是「太酷啦」的谐音版本。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「i 人 e 人」中的「i 人」指的是什么性格？",
+      "question_type": "single_choice",
+      "options": ["外向", "内向", "中间", "暴躁"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「纯爱战士」是指坚持纯粹爱情理想的人。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「偷感」形容的是什么状态？",
+      "question_type": "single_choice",
+      "options": ["偷东西的人", "偷偷摸摸、怕被注意的感觉", "很擅长偷窃", "被人偷了东西"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「遥遥领先」这个梗最初与华为有关。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「你算是踢到棉花了」是一种什么表达方式？",
+      "question_type": "single_choice",
+      "options": ["夸对方厉害", "威胁对方", "撒娇/卖萌式反击", "表达失望"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "「奶茶」是刘耀文的谐音昵称。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「电子榨菜」是指什么？",
+      "question_type": "single_choice",
+      "options": ["电子产品配件", "网红零食", "吃饭时看的视频/内容", "外卖品牌"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "「遥遥领先」的英文是「Far ahead」。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "「泼天的富贵」常用来形容什么？",
+      "question_type": "single_choice",
+      "options": ["灾祸降临", "突然的巨大流量/机会", "极有钱的人", "捐款活动"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「哈基米」出自《猫咪之歌》的拟声词。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「恐龙扛狼」是一个什么类型的梗？",
+      "question_type": "single_choice",
+      "options": ["电影台词", "音乐卡点/歌词空耳", "游戏技能", "冷笑话"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「老王」是日语「老婆」（tsuma）的错误发音。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "「你这个老六」中的「老六」是什么意思？",
+      "question_type": "single_choice",
+      "options": ["排行第六", "不讲武德阴人的玩家", "六岁孩子", "老年人"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「马保国」的著名语录包括「接化发」「大意了没有闪」。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「红温」指的是什么状态？",
+      "question_type": "single_choice",
+      "options": ["发烧", "愤怒/脸都气红了", "害羞脸红", "喝酒上头"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「典中典」是充满讽刺意味的对经典言论的称呼。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「爷青回」是什么意思？",
+      "question_type": "single_choice",
+      "options": ["爷爷年轻了", "爷的青春回来了", "爸爸回来了", "祖上很阔"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「尊嘟假嘟」是「真的假的」的萌化说法。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「绷不住了」网络用语的意思是？",
+      "question_type": "single_choice",
+      "options": ["绳子断了", "笑/哭到忍不住", "衣服扣子崩开", "失业了"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「小狗文学」是一种用狗狗视角写的文艺短句。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「这是可以说的吗」通常用于什么场景？",
+      "question_type": "single_choice",
+      "options": ["表达同意", "试探性地吐槽或爆料", "问路", "点菜"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「逆天」在古代指违背天道，在当代网络用语中指离谱。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「通辽宇宙」与哪个 UP 主有关？",
+      "question_type": "single_choice",
+      "options": ["何同学", "小约翰可汗", "老番茄", "徐大虾"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「你是我的神」出自某选秀节目的名场面。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「蚌埠住了」是哪个词的谐音？",
+      "question_type": "single_choice",
+      "options": ["蚌埠这座城市", "绷不住了", "棒不住了", "帮不了了"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「废话文学」是一种说了等于没说的表达方式。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「典」这个字在网络评论中单独使用是表达什么？",
+      "question_type": "single_choice",
+      "options": ["经典/有代表性（多含讽刺）", "书", "好看", "糟糕"],
+      "answer": "A",
+      "is_active": true
+    },
+    {
+      "question_text": "「后浪」出自 B 站 2020 年的五四青年节演讲。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「多巴胺穿搭」是一种什么风格的穿衣搭配？",
+      "question_type": "single_choice",
+      "options": ["黑白简约", "动物毛皮", "明亮鲜艳色彩", "运动休闲"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "「柠檬精」形容喜欢酸别人的人。",
+      "question_type": "true_false",
+      "answer": "错"
+    },
+    {
+      "question_text": "「PUA」本来是搭讪术语，后来被引申为什么意思？",
+      "question_type": "single_choice",
+      "options": ["编程用语", "精神控制/打压式操控", "平台用户协议", "户外运动"],
+      "answer": "B",
+      "is_active": true
+    },
+    {
+      "question_text": "「在小小的花园里挖呀挖」是一首幼儿园儿歌。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「我太难了」这个梗最初来自哪个视频平台？",
+      "question_type": "single_choice",
+      "options": ["抖音", "B站", "快手", "YouTube"],
+      "answer": "C",
+      "is_active": true
+    },
+    {
+      "question_text": "「雨女无瓜」是「与你无关」的谐音梗。",
+      "question_type": "true_false",
+      "answer": "对"
+    },
+    {
+      "question_text": "「电子木鱼」是用于什么目的的 App？",
+      "question_type": "single_choice",
+      "options": ["计时工具", "积功德/解压", "学习编程", "游戏外挂"],
+      "answer": "B",
+      "is_active": true
+    }
+  ]
+}
