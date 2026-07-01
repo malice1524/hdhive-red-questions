@@ -1,0 +1,355 @@
+{
+  "source": "community-trivia",
+  "questions": [
+    {
+      "question_text": "香蕉其实是草本植物还是木本植物？",
+      "options": ["草本植物", "木本植物", "菌类", "藻类"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "北极熊的皮肤是什么颜色的？",
+      "options": ["白色", "黑色", "粉色", "透明"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类和香蕉共享大约多少的 DNA？",
+      "options": ["10%", "50%", "60%", "90%"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蜜蜂的翅膀每分钟大约震动多少次？",
+      "options": ["100次", "200次", "11400次", "50000次"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最小的骨骼位于哪里？",
+      "options": ["手指", "耳朵", "鼻子", "脚趾"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "打喷嚏时气流速度可以达到多少公里每小时？",
+      "options": ["20公里/小时", "56公里/小时", "160公里/小时", "300公里/小时"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "树懒在水中的游泳速度比在陆地上快。",
+      "options": ["比陆地快", "比陆地慢", "不会游泳", "一样快"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人一天大约会分泌多少唾液？",
+      "options": ["100毫升", "500毫升", "1升", "2升"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "澳大利亚的国宝考拉每天睡觉约多少小时？",
+      "options": ["10小时", "14小时", "20小时", "24小时"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "太阳的质量占整个太阳系的百分之多少？",
+      "options": ["50%", "75%", "99.86%", "100%"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类的舌头上有大约多少个味蕾？",
+      "options": ["500个", "2000个", "8000个", "20000个"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "海洋中最深的鱼类生活在多少米深处？",
+      "options": ["2000米", "5000米", "8000米以上", "1000米"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蜗牛可以连续睡多久？",
+      "options": ["一周", "一个月", "三年", "一天"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体内细菌的数量大约是自身细胞数量的多少倍？",
+      "options": ["同样多", "1.3倍", "10倍", "100倍"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "一勺中子星的物质大约重多少吨？",
+      "options": ["1吨", "100吨", "10亿吨", "1000亿吨"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最硬的物质是牙釉质。",
+      "options": ["头发", "骨骼", "牙釉质", "指甲"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "银河系大约有多少颗恒星？",
+      "options": ["100万颗", "10亿颗", "1000亿颗", "100万亿颗"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "刚出生的婴儿有多少块骨头？",
+      "options": ["206块", "270块", "300块", "350块"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "猫的味觉感受不到什么味道？",
+      "options": ["酸", "甜", "苦", "咸"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最长的器官是？",
+      "options": ["大肠", "小肠", "食道", "脊髓"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "一个成年人体内的血管总长度大约是多少？",
+      "options": ["1000公里", "10000公里", "100000公里", "500公里"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鸵鸟的眼睛比它的脑子大。",
+      "options": ["眼睛比脑子大", "脑子比眼睛大", "一样大", "没有脑子"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "指纹除了人类以外还有哪种动物也有？",
+      "options": ["黑猩猩", "考拉", "狗", "猫"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "火柴是谁发明的？",
+      "options": ["爱迪生", "约翰·沃克", "牛顿", "贝尔"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "一光年是距离单位，约等于多少公里？",
+      "options": ["9.46亿公里", "9.46万亿公里", "9460亿公里", "946万公里"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "金鱼确实可以分辨颜色。",
+      "options": ["可以", "不可以", "只能分辨黑白", "只能分辨蓝绿"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "国际空间站大约每90分钟绕地球一圈。",
+      "options": ["45分钟", "90分钟", "180分钟", "24小时"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "大象是唯一有四个膝盖的动物。",
+      "options": ["是", "不是", "鸟类也有", "蛇也有"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类手指甲和脚趾甲中哪个长得更快？",
+      "options": ["手指甲", "脚趾甲", "一样快", "看季节"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最耐寒的部位是？",
+      "options": ["手", "脚", "头部", "耳朵"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上第一张照片诞生于哪一年？",
+      "options": ["1800年", "1826年", "1850年", "1888年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "一只成年蓝鲸的心脏大约有多重？",
+      "options": ["100公斤", "400公斤", "600公斤", "1吨"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "柠檬比草莓含糖量更高。",
+      "options": ["柠檬更高", "草莓更高", "一样", "都不含糖"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体每天大约会脱落多少皮肤细胞？",
+      "options": ["100个", "10000个", "100万个", "几千万个"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "竹子是一种草而不是树。",
+      "options": ["草", "树", "灌木", "藤蔓"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类眼睛的像素大约相当于多少万像素？",
+      "options": ["100万", "500万", "2000万", "5.76亿"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "意大利面的种类超过300种。",
+      "options": ["100种", "200种", "300种", "600种"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "宇航员在太空中会长高。",
+      "options": ["会长高", "会变矮", "不变", "看年龄"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "水獭在睡觉时手拉着手防止被冲散。",
+      "options": ["手拉手", "用尾巴勾住", "用牙齿咬", "抱成一团"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最辣的辣椒辣度可达多少 SHU（斯科维尔辣度单位）？",
+      "options": ["10万", "100万", "164万", "1000万"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "袋熊的便便是立方体形状的。",
+      "options": ["立方体", "圆形", "长条", "不规则"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最强的肌肉是咬肌。",
+      "options": ["手臂肌肉", "大腿肌肉", "心脏", "咬肌"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "荧光笔的墨水在紫外线下会发光。",
+      "options": ["会发光", "不会发光", "只有黄色发光", "只有粉色发光"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "打呼噜时其实是在吸气还是呼气时发声？",
+      "options": ["吸气", "呼气", "两者都有", "只在睡觉时"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "章鱼有三个心脏。",
+      "options": ["一个", "两个", "三个", "四个"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类微笑时需要用到的面部肌肉比皱眉少。",
+      "options": ["微笑更多", "皱眉更多", "一样多", "都不动"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "玉米（玉蜀黍）原产于哪个大洲？",
+      "options": ["亚洲", "非洲", "美洲", "欧洲"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人的指纹在胎儿时期约3-4个月时就已形成。",
+      "options": ["2个月", "3-4个月", "出生前一周", "出生后"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最重的器官是哪个？",
+      "options": ["心脏", "大脑", "肝脏", "肺"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "鸭子的叫声在空旷处没有回声。",
+      "options": ["没有回声", "有回声", "看天气", "看鸭子大小"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
