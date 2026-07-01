@@ -1,0 +1,348 @@
+{
+  "source": "community-business",
+  "questions": [
+    {
+      "question_text": "苹果公司的创始人是谁？",
+      "options": ["比尔·盖茨", "史蒂夫·乔布斯", "埃隆·马斯克", "马克·扎克伯格"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "阿里巴巴集团的创始人是？",
+      "options": ["马化腾", "马云", "刘强东", "雷军"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上市值最高的公司通常是？",
+      "options": ["微软", "苹果", "亚马逊", "谷歌"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "美元的货币符号是什么？",
+      "options": ["€", "£", "$", "¥"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "腾讯公司最核心的产品是什么？",
+      "options": ["淘宝", "微信", "百度", "滴滴"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上第一家现代银行诞生在哪个国家？",
+      "options": ["英国", "意大利", "荷兰", "德国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「大富翁」游戏最原始的名称是？",
+      "options": ["强手棋", "地产大王", "Monopoly", "钱钱钱"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "股票市场中「牛市」是指什么行情？",
+      "options": ["下跌", "上涨", "横盘", "波动剧烈"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "特斯拉公司主要从事什么业务？",
+      "options": ["手机制造", "电动汽车", "搜索引擎", "社交媒体"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "流通中的现金在经济学中属于哪个货币层次？",
+      "options": ["M0", "M1", "M2", "M3"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "麦当劳的创始人是？",
+      "options": ["麦当劳兄弟", "雷·克洛克", "肯德基上校", "华特·迪士尼"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "欧盟的货币名称是？",
+      "options": ["美元", "英镑", "欧元", "法郎"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "比亚迪最初是以什么产品起家的？",
+      "options": ["手机电池", "汽车", "白色家电", "光伏"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "可口可乐公司是哪一年成立的？",
+      "options": ["1886年", "1892年", "1900年", "1920年"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "经济学中「GDP」的全称是什么？",
+      "options": ["国民生产总值", "国内生产总值", "国民收入", "消费价格指数"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "拼多多是中国的一家什么类型的电商平台？",
+      "options": ["B2B", "C2C社交拼团", "B2C自营", "二手交易"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的搜索引擎是？",
+      "options": ["百度", "Google", "Bing", "Yahoo"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "信用卡的「信用额度」是指什么？",
+      "options": ["最高取现金额", "最高消费金额", "最低还款额", "年费金额"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "耐克的标志性图案是什么？",
+      "options": ["对勾", "三叶草", "三条杠", "星星"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "股票代码前标「ST」表示什么？",
+      "options": ["上市公司", "特别处理（有风险）", "涨停", "退市"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "小米公司的创始人是谁？",
+      "options": ["雷军", "董明珠", "任正非", "张一鸣"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "通货膨胀率上升时，银行存款利率通常会怎样变化？",
+      "options": ["降低", "上升", "不变", "不确定"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "亚马逊公司的标志性业务是什么？",
+      "options": ["社交媒体", "在线零售", "打车服务", "视频平台"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "网易公司最早以什么业务闻名？",
+      "options": ["游戏", "邮箱", "电商", "音乐"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "微信支付和支付宝属于什么类型的支付方式？",
+      "options": ["现金支付", "银行卡支付", "第三方移动支付", "数字货币"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "宜家(IKEA)起源于哪个国家？",
+      "options": ["德国", "瑞典", "丹麦", "挪威"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「A股」是指哪个市场的股票？",
+      "options": ["美国股市", "中国大陆股市", "香港股市", "日本股市"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "字节跳动旗下的产品不包括以下哪个？",
+      "options": ["抖音", "今日头条", "微信", "TikTok"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "保险的核心功能是什么？",
+      "options": ["投资赚钱", "风险转移", "储蓄", "消费"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "LV(Louis Vuitton)是哪个国家的奢侈品牌？",
+      "options": ["英国", "法国", "意大利", "美国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「区块链」技术的核心特征是什么？",
+      "options": ["集中存储", "去中心化", "高速交易", "免费使用"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "华为的创始人是谁？",
+      "options": ["雷军", "任正非", "马化腾", "李彦宏"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全球最大的咖啡连锁品牌是？",
+      "options": ["Costa", "星巴克", "瑞幸", "太平洋咖啡"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国的法定货币是什么？",
+      "options": ["人民币", "港币", "新台币", "美元"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "上市公司需要定期公布什么文件？",
+      "options": ["财务报表", "产品清单", "员工名单", "供应商地址"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "B站(bilibili)的主要用户群体是什么？",
+      "options": ["商务人士", "年轻人/二次元", "老年人", "家庭主妇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的酒店集团是哪家？",
+      "options": ["希尔顿", "万豪国际", "洲际酒店", "雅高"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "信用卡的还款日过后未还款会产生什么？",
+      "options": ["滞纳金和利息", "只收利息", "账户冻结", "降低额度"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "农夫山泉是中国哪个行业的企业？",
+      "options": ["食品", "饮料", "服装", "房地产"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "沃尔玛是哪国公司？",
+      "options": ["德国", "美国", "英国", "法国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人民币的货币符号是？",
+      "options": ["¥", "$", "€", "￡"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "京东商城以什么物流服务著称？",
+      "options": ["三通一达", "自建物流当日达", "顺丰", "菜鸟"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "借贷关系中的「本金」是指什么？",
+      "options": ["借出的原始金额", "利息", "手续费", "违约金"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "纳斯达克是哪个国家的证券交易所？",
+      "options": ["英国", "美国", "日本", "中国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "茅台酒产自中国哪个省份？",
+      "options": ["四川", "贵州", "湖南", "云南"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "团购模式的核心商业逻辑是什么？",
+      "options": ["以量换价", "提高品质", "减少品种", "延长配送"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "Adidas 的标志是？",
+      "options": ["对勾", "三叶草或三条杠", "两个C", "红底白字"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "比特币被归类为什么？",
+      "options": ["法定货币", "加密货币", "股票", "债券"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「美股熔断」是指什么情况？",
+      "options": ["股票不涨了", "跌幅过大触发暂停交易", "涨停", "退市"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
