@@ -1,0 +1,348 @@
+{
+  "source": "community-health",
+  "questions": [
+    {
+      "question_text": "人体中最大的器官是什么？",
+      "options": ["肝脏", "大脑", "心脏", "皮肤"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "正常成年人的平静心率范围大约是多少？",
+      "options": ["40-60次/分", "60-100次/分", "100-120次/分", "120-150次/分"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体缺什么元素会导致贫血？",
+      "options": ["钙", "铁", "锌", "钾"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "近视眼看近处清晰看远处模糊是因为眼球什么过长？",
+      "options": ["角膜曲率", "眼轴", "晶状体厚度", "瞳孔直径"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "感冒多喝水的主要作用是什么？",
+      "options": ["稀释痰液补充水分", "杀死病毒", "提高体温", "增快代谢"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "疫苗的工作原理是什么？",
+      "options": ["直接杀死病毒", "刺激免疫系统产生抗体", "中和毒素", "阻断传播"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体最需要补充哪种维生素来促进钙吸收？",
+      "options": ["维生素A", "维生素B", "维生素C", "维生素D"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "熬夜对身体最直接的伤害是什么？",
+      "options": ["免疫力下降", "长胖", "视力下降", "长痘"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体血压的标准缩写是？",
+      "options": ["BPM", "BP", "HR", "SPO2"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "被狗咬伤后需要注射什么疫苗？",
+      "options": ["流感疫苗", "乙肝疫苗", "狂犬病疫苗", "破伤风疫苗"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体缺碘会引起什么疾病？",
+      "options": ["夜盲症", "甲状腺肿大", "佝偻病", "坏血病"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "跑步时出现「岔气」通常是由什么引起的？",
+      "options": ["吃太饱", "呼吸肌痉挛", "心脏问题", "缺钙"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体内哪种细胞负责抵抗病菌入侵？",
+      "options": ["红细胞", "白细胞", "血小板", "骨骼细胞"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "抗生素对哪种疾病无效？",
+      "options": ["细菌性肺炎", "病毒性感冒", "皮肤伤口感染", "尿道感染"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "哪种睡姿对脊椎最健康？",
+      "options": ["仰卧", "俯卧", "左侧卧", "右侧卧"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "发烧时身体温度升高的意义是？",
+      "options": ["杀死病菌", "让人休息", "消耗脂肪", "促进排毒"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中最大的淋巴器官是？",
+      "options": ["扁桃体", "脾脏", "淋巴结", "胸腺"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "每天喝多少咖啡比较合适（不过量）？",
+      "options": ["1杯", "2-3杯", "5-6杯", "越多越好"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "坐姿不良最直接的后果是什么？",
+      "options": ["脊柱侧弯", "近视", "偏头痛", "胃病"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "打鼾（打呼噜）主要是哪个部位的阻塞引起的？",
+      "options": ["鼻腔", "咽喉部气道", "口腔", "气管"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乙肝主要通过什么途径传播？",
+      "options": ["飞沫", "血液和体液", "食物", "空气"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体摄入过多的盐分会增加什么疾病的风险？",
+      "options": ["低血糖", "高血压", "贫血", "骨质疏松"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "口腔溃疡通常几天可以自愈？",
+      "options": ["1-2天", "7-10天", "一个月", "半年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "用眼过度导致眼睛干涩，最直接的办法是什么？",
+      "options": ["多滴眼药水", "闭眼休息或热敷", "揉眼睛", "换眼镜"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中暑后正确的急救措施是？",
+      "options": ["喝热水", "转移到阴凉处降温补水", "跑步发汗", "喝酒驱热"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体缺乏维生素C会导致什么病？",
+      "options": ["夜盲症", "坏血病", "佝偻病", "脚气病"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体内最大和最小的细胞分别是什么？",
+      "options": ["卵细胞和精子", "皮肤细胞和红细胞", "神经细胞和白细胞", "肌肉细胞和血小板"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "长期久坐最可能导致的健康问题是什么？",
+      "options": ["颈椎腰椎问题", "近视", "白发", "听力下降"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "烧伤烫伤后正确的紧急处理是什么？",
+      "options": ["涂牙膏", "用冷水冲洗降温", "涂酱油", "戳破水泡"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "近视手术中常见的类型是？",
+      "options": ["LASIK或SMILE", "白内障手术", "视网膜脱落手术", "青光眼手术"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人为什么会起鸡皮疙瘩？",
+      "options": ["冷或恐惧时立毛肌收缩", "过敏反应", "皮肤病", "血液循环"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "饮酒后为什么不能驾车？",
+      "options": ["酒精影响判断力和反应力", "会超速", "会困", "交警查得严"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体代谢废物的主要排泄器官是？",
+      "options": ["皮肤", "肺", "肾脏", "大肠"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全麻和局麻的主要区别是？",
+      "options": ["全麻患者意识消失", "局麻更痛", "全麻不痛", "没有区别"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "洗牙的正确频率是多久一次？",
+      "options": ["不用洗", "半年到一年", "一个月", "三个月"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "发霉的食物切掉霉变部分后能继续食用吗？",
+      "options": ["可以", "不可以，霉菌可能已扩散", "加热后可以", "削皮后可以"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人类智齿的学名是什么？",
+      "options": ["第三磨牙", "犬齿", "门牙", "前磨牙"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "打喷嚏时为什么要遮住口鼻？",
+      "options": ["防止飞沫传播病菌", "礼貌", "防止口水溅出", "防止声音太大"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体内维生素D主要通过什么途径获取？",
+      "options": ["食物摄入", "晒太阳合成", "饮水", "呼吸"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "吃鱼眼对视力有帮助吗？",
+      "options": ["有显著帮助", "没有科学依据", "只对近视有效", "比胡萝卜有效"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "伤口愈合时发痒说明什么？",
+      "options": ["感染了", "正在长肉愈合", "过敏", "需要换药"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中占体重比例最大的成分是？",
+      "options": ["蛋白质", "脂肪", "水", "矿物质"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "仰卧起坐主要锻炼的是哪块肌肉？",
+      "options": ["背部", "腹肌", "手臂", "大腿"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "骨骼健康的两个关键元素是？",
+      "options": ["钙和铁", "钙和维生素D", "钙和锌", "铁和维生素D"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体血小板的主要功能是什么？",
+      "options": ["运输氧气", "止血凝血", "抵抗病菌", "分解食物"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "喝酒后脸红是因为体内缺少什么酶？",
+      "options": ["脂肪酶", "醛脱氢酶", "蛋白酶", "淀粉酶"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体大脑一天消耗的能量约占全身的多少？",
+      "options": ["5%", "10%", "20%", "50%"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "测血糖时需要采哪个部位的血最常用？",
+      "options": ["耳垂", "指尖", "手臂", "大腿"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "人体中数量最多的细胞是？",
+      "options": ["神经细胞", "红细胞", "皮肤细胞", "白细胞"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
