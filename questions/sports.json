@@ -1,0 +1,348 @@
+{
+  "source": "community-sports",
+  "questions": [
+    {
+      "question_text": "足球比赛中一支球队有多少名场上队员？",
+      "options": ["9人", "10人", "11人", "12人"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "奥运会每几年举办一次？",
+      "options": ["2年", "3年", "4年", "5年"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界杯足球赛首次举办是在哪一年？",
+      "options": ["1928年", "1930年", "1934年", "1938年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "篮球比赛中投进一个三分球可以得几分？",
+      "options": ["1分", "2分", "3分", "4分"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国被称为「国球」的运动是？",
+      "options": ["羽毛球", "乒乓球", "跳水", "体操"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "网球四大满贯赛事中历史最悠久的是？",
+      "options": ["澳网", "法网", "温网", "美网"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "NBA 的全称是什么？",
+      "options": ["美国棒球联盟", "美国篮球协会", "国家篮球协会", "国家足球联盟"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "拳击比赛中击倒对手后裁判数到几判定 KO？",
+      "options": ["8", "10", "12", "15"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "马拉松全程距离约为多少公里？",
+      "options": ["21.1公里", "42.2公里", "50公里", "100公里"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "刘翔在2004年雅典奥运会获得的是什么项目金牌？",
+      "options": ["100米", "110米栏", "400米栏", "跳远"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "游泳项目中自由泳也被称为什么？",
+      "options": ["蛙泳", "仰泳", "爬泳", "蝶泳"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "羽毛球单打场地比双打场地窄。",
+      "options": ["单打窄", "双打窄", "一样宽", "取决于比赛级别"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "高尔夫球的标准杆数（18洞）总和是？",
+      "options": ["70杆", "71杆", "72杆", "73杆"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "F1 赛车世界锦标赛每年举行多少站比赛（大约）？",
+      "options": ["10-12站", "18-20站", "20-24站", "25-28站"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "姚明在 NBA 效力于哪支球队？",
+      "options": ["湖人队", "火箭队", "勇士队", "马刺队"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界杯历史上夺冠次数最多的国家是？",
+      "options": ["阿根廷", "德国", "巴西", "意大利"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "排球比赛中一队需要赢几分并且领先2分才算赢一局（常规）？",
+      "options": ["21分", "25分", "15分", "11分"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "斯诺克台球中颜色球的最高分值是多少？",
+      "options": ["6分", "7分", "8分", "10分"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国游泳奥运金牌最多的运动员是？",
+      "options": ["孙杨", "汪顺", "叶诗文", "张雨霏"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "冬季奥运会项目不包括以下哪项？",
+      "options": ["冰壶", "滑雪", "花样滑冰", "游泳"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "NBA 历史总得分榜第一的球员是？",
+      "options": ["迈克尔·乔丹", "卡里姆·贾巴尔", "勒布朗·詹姆斯", "科比·布莱恩特"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国女排获得过几次奥运金牌？",
+      "options": ["2次", "3次", "4次", "5次"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "足球比赛中的「帽子戏法」是指什么？",
+      "options": ["头球破门", "一人进三球", "三次犯规", "三次换人"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "跳水比赛中运动员从几米跳台起跳？",
+      "options": ["5米和7.5米", "5米和10米", "3米和10米", "7.5米和10米"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "拳王穆罕默德·阿里参加过哪个运动项目？",
+      "options": ["拳击", "摔跤", "柔道", "散打"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "国际象棋和中国象棋的最大区别是什么？",
+      "options": ["棋盘不同", "棋子走法和中国不同", "颜色不同", "棋子数量不同"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "梅西获得过几次金球奖？",
+      "options": ["5次", "6次", "7次", "8次"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "太极拳是中国传统武术的一种。",
+      "options": ["少林拳", "太极拳", "咏春拳", "洪拳"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "蹦床运动首次纳入奥运会是在哪一年？",
+      "options": ["1996年", "2000年", "2004年", "2008年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "武术兵道（器械对抗）中运动员佩戴什么护具？",
+      "options": ["头盔手套", "全套护甲", "护膝护肘", "腰间护带"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界杯奖杯的名称是？",
+      "options": ["金杯", "大力神杯", "雷米特金杯", "冠军奖杯"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "滑雪比赛中的「大回转」是指什么？",
+      "options": ["大幅转弯", "绕旗门滑行", "连续后空翻", "高速直滑"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "C罗是哪个国家的足球运动员？",
+      "options": ["西班牙", "葡萄牙", "巴西", "阿根廷"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "奥运会金牌的主要成分是什么？",
+      "options": ["纯金", "银镀金", "铜镀金", "金合金"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国承办过夏季奥运会的城市是？",
+      "options": ["上海", "北京", "广州", "深圳"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "冲浪运动对什么自然条件要求最高？",
+      "options": ["风速", "浪高", "阳光", "水温"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞镖比赛中镖盘的中心区域称为？",
+      "options": ["靶心", "双倍区", "红心", "50区"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "竞技健美操的基本步伐不包括？",
+      "options": ["踏步", "开合跳", "弓步跳", "侧空翻"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "现代五项包括击剑、游泳、马术、射击和什么？",
+      "options": ["跑步", "自行车", "举重", "射箭"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "第一届现代奥运会在哪个城市举办？",
+      "options": ["罗马", "雅典", "巴黎", "伦敦"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国男子篮球运动员周琦在 NBA 效力过哪支球队？",
+      "options": ["火箭队", "勇士队", "马刺队", "湖人队"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "击剑比赛中三个剑种不包括以下哪种？",
+      "options": ["花剑", "重剑", "佩剑", "长剑"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「铁人三项」包括哪三项？",
+      "options": ["跑步游泳举重", "游泳自行车跑步", "跑步跳远投掷", "游泳跑步皮划艇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "足球场上裁判使用的红黄牌制度是谁发明的？",
+      "options": ["国际足联", "肯·阿斯顿", "布拉特", "阿维兰热"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "篮球中的「走步违例」是指什么？",
+      "options": ["持球走三步以上", "带球跑", "球出界", "打手犯规"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "体重分级最严格的运动项目通常是什么？",
+      "options": ["举重", "拳击", "体操", "射箭"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "乒乓球比赛中如果双方10平，需要连赢几分？",
+      "options": ["1分", "2分", "3分", "直到领先2分"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "2024年夏季奥运会在哪个城市举办？",
+      "options": ["东京", "巴黎", "洛杉矶", "伦敦"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "花样滑冰中阿克塞尔跳的特点是？",
+      "options": ["向前起跳", "向后起跳", "转体3周", "不带转体"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
