@@ -1,0 +1,348 @@
+{
+  "source": "community-travel",
+  "questions": [
+    {
+      "question_text": "世界上海拔最高的国际机场在哪里？",
+      "options": ["拉萨", "玻利维亚埃尔阿尔托", "秘鲁库斯科", "不丹帕罗"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞机起飞和降落时为什么要打开遮光板？",
+      "options": ["为了好看", "让眼睛适应光线便于紧急撤离", "降低油耗", "防止玻璃破裂"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "出国旅行时最重要的证件是什么？",
+      "options": ["身份证", "护照", "驾照", "学生证"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "时区是如何划分的？",
+      "options": ["按国家", "每15经度一个时区", "按经纬度", "按城市大小"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "高铁上的座位为ABC DF，为什么没有E座？",
+      "options": ["E不吉利", "沿用飞机座位编号习惯", "字母不够用", "随意排列"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国免签国家最多的护照是哪类？",
+      "options": ["普通护照", "公务护照", "外交护照", "都一样"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞机经济舱座位通常的代号是Y舱。",
+      "options": ["Y舱", "F舱", "C舱", "P舱"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全世界国际化程度最高的城市通常被认为是？",
+      "options": ["纽约", "伦敦", "东京", "巴黎"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国最繁忙的民用机场是？",
+      "options": ["广州白云", "上海浦东", "北京首都", "深圳宝安"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "旅游时买当地SIM卡的主要作用是？",
+      "options": ["省钱", "获得本地网络流量", "拍照更好看", "导航更精准"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "高速公路上最高限速通常是在哪个车道？",
+      "options": ["左车道（快车道）", "右车道（慢车道）", "中间车道", "应急车道"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上拥有最多世界遗产的国家是？",
+      "options": ["中国", "意大利", "西班牙", "法国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "海啸来临的正确逃生方式是？",
+      "options": ["往海边跑", "向高处撤离", "冲浪", "躲桥下"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞机上的黑匣子是什么颜色的？",
+      "options": ["黑色", "橙色", "红色", "白色"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "地铁站内黄色安全线的用途是？",
+      "options": ["装饰", "防止乘客距离轨道太近", "排队标志", "盲道"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全球最大的航空联盟是？",
+      "options": ["星空联盟", "天合联盟", "寰宇一家", "以上都不是"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "高铁二等座每排是几个座位？",
+      "options": ["4个", "5个", "6个", "7个"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界之大，最热门的旅游目的地城市是？",
+      "options": ["巴黎", "曼谷", "迪拜", "纽约"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国的地铁安检主要目的是？",
+      "options": ["收走违禁品", "保障公共安全", "增加就业", "收费"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞机上的氧气面罩掉落后应该怎么做？",
+      "options": ["尖叫", "先给自己戴好再帮他人", "先帮他人", "不用戴"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "国际航班提前多久到机场比较合适？",
+      "options": ["30分钟", "1小时", "2-3小时", "半天"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的机场是哪个？",
+      "options": ["北京大兴", "迪拜国际", "伊斯坦布尔机场", "亚特兰大机场"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "日本新干线的最高运营时速约为多少？",
+      "options": ["200公里/小时", "280公里/小时", "320公里/小时", "400公里/小时"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "在酒店住宿时发现火灾的正确做法是？",
+      "options": ["乘电梯下楼", "用湿毛巾捂口鼻走安全通道", "跳窗", "躲进衣柜"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界最长的公路隧道位于哪个国家？",
+      "options": ["挪威", "日本", "瑞士", "中国"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "航空行李托运中「行李直挂」是什么意思？",
+      "options": ["随身携带", "中转不用取行李", "行李单独寄送", "加急行李"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "古代丝绸之路的起点是哪个城市？",
+      "options": ["西安", "洛阳", "北京", "敦煌"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞机上关闭手机的主要原因是？",
+      "options": ["信号干扰导航设备", "省电", "怕手机丢失", "没信号"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "坐火车时靠窗的座位号通常是哪几个？",
+      "options": ["A和F", "A和D", "B和C", "D和F"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "时差反应（Jet Lag）产生的原因是？",
+      "options": ["飞行太累", "生物钟被打乱", "气压变化", "水分流失"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全球最大的邮轮母港是哪个？",
+      "options": ["迈阿密", "巴塞罗那", "上海", "新加坡"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国高速公路编号G开头的代表什么？",
+      "options": ["国道", "省道", "县道", "乡道"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "民航客机高空巡航时空调气压约相当于多少米海拔？",
+      "options": ["1500米", "2400米", "5000米", "8000米"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "出国旅行时最佳支付方式是？",
+      "options": ["大量现金", "信用卡+少量现金", "全部刷卡", "手机支付"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国铁路中「D字头」列车是什么意思？",
+      "options": ["动车组", "直达特快", "特快", "慢车"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上参观人数最多的博物馆是？",
+      "options": ["大英博物馆", "卢浮宫", "大都会博物馆", "故宫博物院"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "自驾游时遇到爆胎的正确做法是？",
+      "options": ["急刹车", "握稳方向盘缓慢减速", "快速打方向", "跳车"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国有三个航站楼的机场是？",
+      "options": ["北京首都T1T2T3", "广州白云", "深圳宝安", "成都天府"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "出国护照有效期不足多长时间无法办理签证？",
+      "options": ["3个月", "6个月", "1年", "2年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "飞行恐惧症（怕坐飞机）最有效的应对方法是？",
+      "options": ["喝酒", "了解飞行原理和统计数据", "闭眼全程", "吃安眠药"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "海岛旅游时最需要注意的安全事项是？",
+      "options": ["防晒", "离岸流和溺水", "饮食安全", "蚊虫叮咬"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最高的室外观光电梯在哪里？",
+      "options": ["广州塔", "上海中心", "张家界百龙天梯", "东京晴空塔"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "旅游保险主要赔付什么？",
+      "options": ["机票退票", "行李丢失/医疗救护/行程延误", "购物损失", "签证费用"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "高铁G字头和D字头的主要区别是？",
+      "options": ["G是高铁D是动车", "G比D慢", "G比D座位多", "G票价更便宜"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "登机牌上的「Gate」是指什么？",
+      "options": ["安检口", "登机口", "值机柜台", "行李转盘"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "过山车（云霄飞车）的发源地是哪里？",
+      "options": ["日本", "美国", "俄罗斯", "法国"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全球最适合看极光的国家是？",
+      "options": ["加拿大", "挪威", "冰岛", "以上都是"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "中国最古老的木质结构建筑在哪里？",
+      "options": ["山西佛光寺", "北京故宫", "西安钟楼", "苏州园林"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "五星级酒店评定的标准不包括以下哪项？",
+      "options": ["房间面积", "服务设施", "餐厅数量", "高度"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
