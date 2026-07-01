@@ -1,0 +1,348 @@
+{
+  "source": "community-tech",
+  "questions": [
+    {
+      "question_text": "计算机中 CPU 的中文全称是？",
+      "options": ["图形处理器", "中央处理器", "内存控制器", "主板芯片组"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "互联网的英文是？",
+      "options": ["Internet", "Intranet", "Ethernet", "Web"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "智能手机的操作系统两大主流是 iOS 和什么？",
+      "options": ["Windows", "Android", "HarmonyOS", "Linux"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上第一个计算机病毒的名称是？",
+      "options": ["熊猫烧香", "Creeper", "CIH", "蠕虫"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「WiFi」是一种什么连接技术？",
+      "options": ["有线网络", "无线局域网", "蓝牙", "红外线"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的芯片制造商是？",
+      "options": ["英特尔", "台积电", "高通", "三星"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "硬盘 SSD 和 HDD 的主要区别是什么？",
+      "options": ["大小不同", "SSD无机械结构速度更快", "HDD更先进", "价格一样"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "5G 相比 4G 最大的优势是什么？",
+      "options": ["更高功耗", "更低的延迟和更高的速度", "更厚的手机", "更贵的套餐"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "微软的操作系统 Windows 首次发布是在哪一年？",
+      "options": ["1981年", "1985年", "1990年", "1995年"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "HTML 的中文全称是？",
+      "options": ["超文本标记语言", "超链接语言", "高级文本语言", "网页定义语言"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "电池容量通常用什么单位表示？",
+      "options": ["瓦特(W)", "毫安时(mAh)", "伏特(V)", "安培(A)"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「蓝牙」技术是以哪位历史人物命名的？",
+      "options": ["牛顿", "哈拉尔蓝牙王", "贝尔", "特斯拉"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "显示器的分辨率 1920×1080 中 1080 代表什么？",
+      "options": ["宽度像素", "高度像素", "对角线长度", "色深"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "自动驾驶技术等级 L2 到 L5 中，哪个级别可以实现完全无人驾驶？",
+      "options": ["L2", "L3", "L4", "L5"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上第一台通用计算机叫什么？",
+      "options": ["Apple I", "ENIAC", "IBM PC", "Altair"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "VR 技术中的「VR」全称是什么？",
+      "options": ["虚拟现实", "增强现实", "混合现实", "扩展现实"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "Linux 系统的创始人是？",
+      "options": ["比尔·盖茨", "林纳斯·托瓦兹", "理查德·斯托曼", "丹尼斯·里奇"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "手机的「NFC」功能主要用于什么？",
+      "options": ["快速充电", "近场通信支付", "拍照优化", "屏幕显示"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "Python 是一种什么类型的编程语言？",
+      "options": ["汇编语言", "编译型语言", "解释型语言", "标记语言"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上最大的社交网络平台（月活最高）是？",
+      "options": ["Facebook", "微信", "TikTok", "Instagram"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「云计算」的核心是什么？",
+      "options": ["本地存储", "通过网络提供按需计算资源", "更强的显卡", "更大的硬盘"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "GPS 定位系统最初是由哪国开发的？",
+      "options": ["中国", "俄罗斯", "美国", "欧洲"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "智能手机通过什么技术充电最方便（无线充电）？",
+      "options": ["蓝牙", "NFC", "电磁感应", "红外线"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "万维网(WWW)的发明者是？",
+      "options": ["比尔·盖茨", "蒂姆·伯纳斯-李", "鲍勃·卡恩", "文顿·瑟夫"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "OLED 屏幕相比 LCD 的优势是？",
+      "options": ["更厚", "自发光、对比度更高", "更耗电", "寿命更长"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「AI」的全称是什么？",
+      "options": ["自动智能", "人工智能", "高级接口", "增强互动"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "世界上第一款商用智能手机是？",
+      "options": ["iPhone", "IBM Simon", "诺基亚N95", "黑莓"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「比特」和「字节」的关系是？",
+      "options": ["1字节=8比特", "1比特=8字节", "一样大", "没有关系"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "SpaceX 是哪家公司的航天项目？",
+      "options": ["NASA", "埃隆·马斯克创立", "蓝色起源", "波音"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "手机系统更新中的「OTA」是什么意思？",
+      "options": ["无线升级", "在线商店", "手机优化", "数据备份"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "3D 打印技术使用的材料不包括以下哪种？",
+      "options": ["塑料", "金属粉末", "纸", "以上都可以"],
+      "answer": "C",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "摩尔定律是由谁提出的？",
+      "options": ["比尔·盖茨", "戈登·摩尔", "乔布斯", "冯·诺依曼"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「HTTP」与「HTTPS」的主要区别是什么？",
+      "options": ["HTTP更快", "HTTPS经过加密更安全", "HTTPS更贵", "没有区别"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "苹果公司的 AI 助手叫什么？",
+      "options": ["Alexa", "Siri", "Google Assistant", "小爱同学"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "全球最大的芯片设计公司（ARM架构）是？",
+      "options": ["英特尔", "ARM", "AMD", "英伟达"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "搜狗输入法属于什么类型的软件？",
+      "options": ["图像处理", "文字输入", "视频编辑", "社交聊天"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「物联网」的英文缩写是？",
+      "options": ["IT", "IoT", "AIoT", "IC"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "开源操作系统 Linux 的吉祥物是？",
+      "options": ["企鹅", "鲨鱼", "狗", "猫"],
+      "answer": "A",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "二维码是由哪个国家的公司发明的？",
+      "options": ["中国", "日本", "美国", "韩国"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "Web 开发中 CSS 主要用于什么？",
+      "options": ["页面结构", "页面样式", "交互逻辑", "数据存储"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "大模型 AI 中「GPT」的全称是？",
+      "options": ["通用编程工具", "生成式预训练变压器", "图形处理技术", "全局路径规划"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "USB-C 接口的特点是？",
+      "options": ["只充电", "正反可插", "只能传输数据", "只用于苹果设备"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "传统的「软件盗版」是指什么？",
+      "options": ["硬件损坏", "未经授权复制使用软件", "删除软件", "升级系统"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "手机屏幕的「刘海」设计主要为了什么？",
+      "options": ["美观", "放置前置摄像头和传感器", "减少重量", "增加屏幕占比"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "以下哪个不是主流的编程语言？",
+      "options": ["Java", "Python", "JavaScript", "H2O"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "5G 网络的理论峰值速度大约是多少？",
+      "options": ["100Mbps", "1Gbps", "10Gbps", "20Gbps"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "智能手表的健康监测功能不包括以下哪项？",
+      "options": ["心率", "血氧", "心电图", "核磁共振"],
+      "answer": "D",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "「数字人民币」和实体人民币的关系是？",
+      "options": ["替代关系", "同等法定地位", "数字版不能兑换现金", "仅用于网购"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    },
+    {
+      "question_text": "网页浏览器「无痕模式」能做什么？",
+      "options": ["完全匿名上网", "不在本机保存浏览记录", "防止被追踪", "加速网页"],
+      "answer": "B",
+      "is_active": true,
+      "question_type": "single_choice"
+    }
+  ]
+}
